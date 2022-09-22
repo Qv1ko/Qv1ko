@@ -7,6 +7,11 @@ Víctor García Murillo</h1>
 <a href="https://app.hackthebox.com/profile/924054"><img src="http://www.hackthebox.eu/badge/image/924054"></a>
 
 <h2>Operating systems</h2>
+<p align="left">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" width="35px" height="35px">
+</p>
 <h2>Languages</h2>
 <h2>Tools</h2>
 
