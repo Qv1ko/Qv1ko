@@ -12,8 +12,18 @@ Víctor García Murillo</h1>
   <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" width="35px" height="35px">
 </p>
+
 <h2>Languages</h2>
+<p align="left">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="35px" height="35px">
+</p>
+
 <h2>Tools</h2>
+<p align="left">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" width="35px" height="35px">
+</p>
 
 <h2>Social media Profile</h2>
 
