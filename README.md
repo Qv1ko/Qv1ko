@@ -31,12 +31,14 @@ Víctor García Murillo</h1>
   <img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" width="35px" height="35px">
 </p>
 
-<h2>Social media Profile</h2>
+<h1>About me</h1>
+<h4>I'm an active and perfectionist guy with a desire to contribute.</h4>
+<li>I'm looking for a job as a <strong>cybersecurity auditor</strong>, although I am open to any job related to IT.</li>
+<li>I'm currently studying <strong>Development</strong> and <strong>Cybersecurity</strong>.</li>
+<li>I'm in constant construction of <strong>personal projects</strong>.</li>
 
 
 <!--
 Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 -->
