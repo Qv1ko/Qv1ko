@@ -10,6 +10,7 @@ Víctor García Murillo</h1>
 <p align="left">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" width="35px" height="35px">
 </p>
 
