@@ -17,6 +17,7 @@ Víctor García Murillo</h1>
 <p align="left">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="35px" height="35px">
 </p>
 
