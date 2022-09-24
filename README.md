@@ -25,6 +25,7 @@ Víctor García Murillo</h1>
 <h2>Tools</h2>
 <p align="left">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/vim.svg" width="35px" height="35px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/neovim.svg" width="35px" height="35px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" width="35px" height="35px">
