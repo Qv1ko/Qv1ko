@@ -10,6 +10,7 @@ Víctor García Murillo</h1>
   <p align="left">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/kali-logo.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" width="35px" height="35px">
   </p>
@@ -19,6 +20,9 @@ Víctor García Murillo</h1>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="35px" height="35px">
   </p>
 
@@ -28,6 +32,14 @@ Víctor García Murillo</h1>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/neovim.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-office.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/eclipse.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/wix.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/libreoffice-logo.svg" width="35px" height="35px">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/gimp.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" width="35px" height="35px">
   </p>
 
