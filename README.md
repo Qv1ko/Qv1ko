@@ -34,8 +34,10 @@ Víctor García Murillo</h1>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/neovim.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-office.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="35px" height="35px">
+  </p>
+  <p align="left">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/eclipse.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/wix.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/libreoffice-logo.svg" width="35px" height="35px">
