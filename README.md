@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/Qv1ko/Qv1ko/blob/main/pictures/icon.png" width="250px" height="250px"></p>
-<h1 align="center">Qv1ko
-  <p><a href="https://github.com/Qv1ko"><img src="https://komarev.com/ghpvc/?username=qv1ko&color=lightgrey&style=flat&label=Profile views"/></a></p>
-Víctor García Murillo</h1>
+<p align="center">
+  <a href="https://github.com/Qv1ko"><img src="https://komarev.com/ghpvc/?username=qv1ko&color=lightgrey&style=flat&label=Profile views"</a>
+</p>
 
 <h1>About me</h1>
   <strong>I'm an active and perfectionist guy with a desire to contribute.</strong>
