@@ -24,9 +24,6 @@
     </a>
   </p>
 
-<h2>CTF Profile</h2>
-  <a href="https://app.hackthebox.com/profile/924054"><img src="http://www.hackthebox.eu/badge/image/924054"></a>
-
 <h2>Operating systems</h2>
   <p align="left">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="35px" height="35px">
