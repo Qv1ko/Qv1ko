@@ -19,9 +19,6 @@
     <a href="https://twitter.com/qv1ko">
       <img src="https://img.shields.io/badge/twitter-00acee.svg?logo=twitter&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://www.instagram.com/qv1k0/">
-      <img src="https://img.shields.io/badge/instagram-c13584.svg?logo=instagram&logoColor=white&style=for-the-badge"/>
-    </a>
   </p>
 
 <h2>Operating systems</h2>
