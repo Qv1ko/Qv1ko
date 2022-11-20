@@ -1,70 +1,35 @@
-# ![https://www.buymeacoffee.com/qv1ko](https://github.com/Qv1ko/Qv1ko/blob/main/pictures/icon.png) Hola, mi nombre es Victor 👋🏼
+# ![https://www.buymeacoffee.com/qv1ko](https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png) Hola, mi nombre es Victor 👋🏼
+
 ### Technology enthusiast
+[![YouTube](https://img.shields.io/badge/YouTube-@qv1ko-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@qv1ko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/qv1ko/)
+[![GitHub](https://img.shields.io/badge/GitHub-Qv1ko-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Qv1ko)
+[![Twitter](https://img.shields.io/badge/Twitter-@qv1ko-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/qv1ko)
+[![Instagram](https://img.shields.io/badge/Instagram-@qv1k0-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/qv1k0)
 
-<p align="center"><img src="https://github.com/Qv1ko/Qv1ko/blob/main/pictures/icon.png" width="250px" height="250px"></p>
-<p align="center">
-  <a href="https://github.com/Qv1ko"><img src="https://komarev.com/ghpvc/?username=qv1ko&color=lightgrey&style=flat&label=Profile views"</a>
-</p>
+Soy informático y entusiasta de la tecnología desde hace años.
 
-<h1>About me</h1>
-  <strong>I'm an active and perfectionist guy with a desire to contribute.</strong>
-  <li>I'm looking for a job as a <strong>cybersecurity auditor</strong>, although I am open to any job related to IT.</li>
-  <li>I'm currently studying <strong>Development</strong> and <strong>Cybersecurity</strong>.</li>
-  <li>I'm in constant construction of <strong>personal projects</strong>.</li>
-<h2>Connect with me</h2>
-  <p>
-    <a href="mailto:vicgarmur947@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-bb001b?logo=gmail&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/qv1ko/">
-      <img src="https://img.shields.io/badge/linkedin-0072b1.svg?logo=linkedin&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://twitter.com/qv1ko">
-      <img src="https://img.shields.io/badge/twitter-00acee.svg?logo=twitter&logoColor=white&style=for-the-badge"/>
-    </a>
-  </p>
+2017 ➡ Inicio mi interés por la informática y las tecnologías empezando a trabajar con mi primer ordenador.
+</br>
+2020 ➡ Arranque con mis estudios en el sector de la informática, formándome en un ciclo de grado medio de Sistemas Microinformáticos y Redes. Desde entonces me he dedicado a especializarme en el sector.
+</br>
+2022 ➡ Empiezo a cursar un ciclo de grado superior de desarrollo de aplicaciones multiplataforma ![DAM](https://github.com/Qv1ko/DAM), el cual estoy haciendo actualmente mientras dedico mi tiempo libre a realizar proyectos personales.
+  
+## Tecnologías:
+[![Bash](https://img.shields.io/badge/Bash-FFED01?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-004CE8?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-E64C18?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Vim](https://img.shields.io/badge/Vim-19953F?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)]()
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-4EA8F2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+[![WordPress](https://img.shields.io/badge/WordPress-2E759C?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 
-<h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&hide_border=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=qv1ko&layout=compact&hide_border=true&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qv1ko&hide_border=true&theme=dark"/>
-
-<h2>Operating systems</h2>
-  <p align="left">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/kali-logo.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/debian.svg" width="35px" height="35px">
-  </p>
-
-<h2>Languages</h2>
-  <p align="left">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" width="35px" height="35px">
-  </p>
-
-<h2>Tools</h2>
-  <p align="left">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/vim.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/neovim.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-office.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="35px" height="35px">
-  </p>
-  <p align="left">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/eclipse.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/wix.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/libreoffice-logo.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/gimp.svg" width="35px" height="35px">
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" width="35px" height="35px">
-  </p>
+## Contacto y apoyo:
+[![Telegram](https://img.shields.io/badge/Telegram-qv1ko-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/qv1ko/)
+</br>
+[![Gmail](https://img.shields.io/badge/Gmail-Email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
+</br>
+[![Buy_Me_a_Coffe](https://img.shields.io/badge/Buy_me_a_coffe-Apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/qv1ko)
