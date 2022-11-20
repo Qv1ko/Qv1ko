@@ -1,3 +1,6 @@
+# ![https://www.buymeacoffee.com/qv1ko](https://github.com/Qv1ko/Qv1ko/blob/main/pictures/icon.png) Hola, mi nombre es Victor 👋🏼
+### Technology enthusiast
+
 <p align="center"><img src="https://github.com/Qv1ko/Qv1ko/blob/main/pictures/icon.png" width="250px" height="250px"></p>
 <p align="center">
   <a href="https://github.com/Qv1ko"><img src="https://komarev.com/ghpvc/?username=qv1ko&color=lightgrey&style=flat&label=Profile views"</a>
