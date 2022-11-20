@@ -52,6 +52,7 @@
     <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" width="35px" height="35px">
   </p>
   <p align="left">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/filezilla.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/eclipse.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/wix.svg" width="35px" height="35px">
