@@ -60,4 +60,3 @@
     <img src="https://github.com/get-icon/geticon/raw/master/icons/gimp.svg" width="35px" height="35px">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" width="35px" height="35px">
   </p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
