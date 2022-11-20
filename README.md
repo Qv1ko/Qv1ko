@@ -21,6 +21,11 @@
     </a>
   </p>
 
+<h2>Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=qv1ko&layout=compact&hide_border=true&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qv1ko&hide_border=true&theme=dark"/>
+
 <h2>Operating systems</h2>
   <p align="left">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" width="35px" height="35px">
