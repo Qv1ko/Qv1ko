@@ -1,4 +1,4 @@
-# ![https://www.buymeacoffee.com/qv1ko](https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png) Hola, mi nombre es Victor 👋🏼
+# ![https://www.buymeacoffee.com/qv1ko](https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png) Hola, mi nombre es Víctor 👋🏼
 
 ### Technology enthusiast
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@qv1ko)
