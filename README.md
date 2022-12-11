@@ -23,9 +23,12 @@ Soy informático y entusiasta de la tecnología desde hace años.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![WordPress](https://img.shields.io/badge/WordPress-2E759C?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
+</br>
+[![Eclipse](https://img.shields.io/badge/Eclipse-281A54?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)]()
 [![Vim](https://img.shields.io/badge/Vim-19953F?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-4EA8F2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
-[![WordPress](https://img.shields.io/badge/WordPress-2E759C?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
+
 
 ## Contacto y apoyo:
 [![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-Email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
