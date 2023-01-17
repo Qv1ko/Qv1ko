@@ -16,7 +16,7 @@ Soy informático y entusiasta de la tecnología desde hace años.
 2022 ➡ Empiezo a cursar un ciclo de grado superior de desarrollo de aplicaciones multiplataforma ![DAM](https://github.com/Qv1ko/DAM), el cual estoy haciendo actualmente mientras dedico mi tiempo libre a realizar proyectos personales.
   
 ## Tecnologías:
-[![Bash](https://img.shields.io/badge/Bash-FFED01?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![Bash](https://img.shields.io/badge/Bash-FFED01?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.gnu.org/software/bash/)
 [![CSS](https://img.shields.io/badge/CSS-004CE8?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E64C18?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
