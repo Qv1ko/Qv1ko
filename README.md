@@ -12,7 +12,7 @@ Soy informático y entusiasta de la tecnología desde hace años.
 </br>
 2020 ➡ Arranque con mis estudios en el sector de la informática, formándome en un Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes. Desde entonces me he dedicado a especializarme en el sector.
 </br>
-2022 ➡ Empiezo a cursar un ciclo de grado superior de desarrollo de aplicaciones multiplataforma ![DAM](https://github.com/Qv1ko/DAM), el cual estoy haciendo actualmente mientras dedico mi tiempo libre a realizar proyectos personales.
+2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)), el cual estoy haciendo actualmente mientras dedico mi tiempo libre a realizar proyectos personales.
   
 ## Tecnologías:
 [![Bash](https://img.shields.io/badge/Bash-FFED01?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
