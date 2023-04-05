@@ -26,6 +26,7 @@ Soy informático y entusiasta de la tecnología desde hace años.
 [![WordPress](https://img.shields.io/badge/WordPress-2E759C?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 </br>
 [![Eclipse](https://img.shields.io/badge/Eclipse-281A54?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)]()
+[![Sublime Text](https://img.shields.io/badge/Sublime_Text-F89908?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
 [![Vim](https://img.shields.io/badge/Vim-19953F?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-4EA8F2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
