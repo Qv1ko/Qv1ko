@@ -19,10 +19,10 @@ Soy informático y entusiasta de la tecnología desde hace años.
 [![CSS](https://img.shields.io/badge/CSS-004CE8?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E64C18?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 [![WordPress](https://img.shields.io/badge/WordPress-2E759C?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 </br>
 [![Eclipse](https://img.shields.io/badge/Eclipse-281A54?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)]()
