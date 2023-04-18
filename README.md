@@ -12,7 +12,9 @@ Soy informático y entusiasta de la tecnología desde hace años.
 </br>
 2020 ➡ Arranque con mis estudios en el sector de la informática, formándome en un Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes. Desde entonces me he dedicado a especializarme en el sector.
 </br>
-2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)), el cual estoy haciendo actualmente mientras dedico mi tiempo libre a realizar proyectos personales.
+2022 ➡ A lo largo de la primera mitad del año, estudié ciberseguridad de forma autodidacta y complete un total de 42 CTF's en la plataforma de [HackTheBox](https://app.hackthebox.com/profile/924054).
+</br>
+2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)), el cual estoy cursando actualmente mientras dedico mi tiempo libre a realizar proyectos personales.
   
 ## Tecnologías:
 [![Bash](https://img.shields.io/badge/Bash-FFED01?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
