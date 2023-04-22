@@ -36,5 +36,5 @@ Soy informático y entusiasta de la tecnología desde hace años.
 ## Contacto y apoyo:
 [![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-Email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
 </br>
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/qv1ko/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/Qv1ko)
 [![Buy_Me_a_Coffe](https://img.shields.io/badge/Buy_me_a_coffe-Apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/qv1ko)
