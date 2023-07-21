@@ -16,7 +16,7 @@ Soy informático y entusiasta de la tecnología desde hace años.
 </br>
 2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)).
 </br>
-2023 ➡ Actualmente, durante mis vacaciones de verano, me dedico a realizar diversos cursos y practicar diferentes lenguajes de programación, como Java, JavaScript y TypeScript.
+2023 ➡ Actualmente, durante mis vacaciones de verano, me dedico a realizar diversos cursos y practicar diferentes lenguajes de programación, como Java, SQL, JavaScript y TypeScript.
   
 ## Tecnologías:
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
