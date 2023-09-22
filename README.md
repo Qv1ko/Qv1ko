@@ -19,13 +19,13 @@ Soy informático y entusiasta de la tecnología desde hace años.
 2023 ➡ Actualmente, durante mis vacaciones de verano, me dedico a realizar diversos cursos y practicar diferentes lenguajes de programación, como Java, SQL, JavaScript y TypeScript.
   
 ## Tecnologías:
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 </br>
@@ -35,8 +35,7 @@ Soy informático y entusiasta de la tecnología desde hace años.
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
 
-## Contacto y apoyo:
+## Contacto:
 [![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-Email_personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
 </br>
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/Qv1ko)
-[![Buy Me a Coffe](https://img.shields.io/badge/Buy_me_a_coffe-Apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/qv1ko)
