@@ -15,8 +15,6 @@ Soy informático y entusiasta de la tecnología desde hace años.
 2022 ➡ A lo largo de la primera mitad del año, estudié ciberseguridad de forma autodidacta y complete un total de 42 CTF's en la plataforma de [HackTheBox](https://app.hackthebox.com/profile/924054).
 </br>
 2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)).
-</br>
-2023 ➡ Actualmente, durante mis vacaciones de verano, me dedico a realizar diversos cursos y practicar diferentes lenguajes de programación, como Java, SQL, JavaScript y TypeScript.
   
 ## Tecnologías:
 [![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
