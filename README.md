@@ -1,12 +1,6 @@
 # ![https://www.buymeacoffee.com/qv1ko](https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png) Hola, mi nombre es Víctor 👋🏼
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@qv1ko)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/qv1ko/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Qv1ko)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/qv1ko)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/qv1k0)
-
-Soy informático y entusiasta de la tecnología desde hace años.
+Desarrollador de software y entusiasta de la tecnología desde hace años.
 
 2017 ➡ Inicio mi interés por la informática y las tecnologías empezando a trabajar con mi primer ordenador.
 </br>
@@ -17,6 +11,10 @@ Soy informático y entusiasta de la tecnología desde hace años.
 2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)).
 </br>
 2023 ➡ Durante el verano, me dediqué a aprender JavaScript y TypeScript.
+</br>
+2024 ➡ Durante las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto (![GDCE](https://github.com/Qv1ko/GDCE)).
+</br>
+2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (![DAW](https://github.com/Qv1ko/DAW)).
   
 ## Tecnologías:
 [![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
@@ -38,6 +36,6 @@ Soy informático y entusiasta de la tecnología desde hace años.
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
-[![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-Email_personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
-</br>
+[![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/qv1ko/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/Qv1ko)
