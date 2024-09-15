@@ -12,12 +12,12 @@ Desarrollador de software y entusiasta de la tecnología desde hace años.
 </br>
 2023 ➡ Durante el verano, me dediqué a aprender JavaScript y TypeScript.
 </br>
-2024 ➡ Durante las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto (![GDCE](https://github.com/Qv1ko/GDCE)).
+2024 ➡ Mientras realizaba las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto (![GDCE](https://github.com/Qv1ko/GDCE)).
 </br>
 2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (![DAW](https://github.com/Qv1ko/DAW)).
   
 ## Tecnologías:
-[![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
