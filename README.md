@@ -8,13 +8,13 @@ Desarrollador de software y entusiasta de la tecnología desde hace años.
 </br>
 2022 ➡ A lo largo de la primera mitad del año, estudié ciberseguridad de forma autodidacta y complete un total de 42 CTF's en la plataforma de [HackTheBox](https://app.hackthebox.com/profile/924054).
 </br>
-2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (![DAM](https://github.com/Qv1ko/DAM)).
+2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma ([DAM](https://github.com/Qv1ko/DAM)).
 </br>
 2023 ➡ Durante el verano, me dediqué a aprender JavaScript y TypeScript.
 </br>
-2024 ➡ Mientras realizaba las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto (![GDCE](https://github.com/Qv1ko/GDCE)).
+2024 ➡ Mientras realizaba las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto ([GDCE](https://github.com/Qv1ko/GDCE)).
 </br>
-2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (![DAW](https://github.com/Qv1ko/DAW)).
+2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW)).
   
 ## Tecnologías:
 [![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
