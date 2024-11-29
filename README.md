@@ -21,12 +21,7 @@ Desarrollador de software y entusiasta de la tecnología desde hace años.
 ![Qv1ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=qv1ko&layout=compact&locale=es&theme=dark)
 
-## Proyectos:
-[![Desarrollo de Aplicaciones Multiplataforma](https://github-readme-stats.vercel.app/api/pin/?username=qv1ko&repo=dam&locale=es&theme=dark)](https://github.com/qv1ko/dam)
-[![Proyecto GDCE](https://github-readme-stats.vercel.app/api/pin/?username=qv1ko&repo=gdce&locale=es&theme=dark)](https://github.com/qv1ko/gdce)
-[![Desarrollo de Aplicaciones Web](https://github-readme-stats.vercel.app/api/pin/?username=qv1ko&repo=daw&locale=es&theme=dark)](https://github.com/qv1ko/daw)
-
-## Tecnologías:
+## Tecnologías y herramientas:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=F80000&labelColor=101010)
