@@ -15,26 +15,24 @@ Desarrollador de software y entusiasta de la tecnología desde hace años.
 2024 ➡ Mientras realizaba las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto ([GDCE](https://github.com/Qv1ko/GDCE)).
 </br>
 2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW)).
-  
+
+---
+
+![Qv1ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+
 ## Tecnologías:
-[![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=F80000&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)
 </br>
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
-</br>
-[![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=101010)]()
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white&labelColor=101010)]()
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=101010)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=000000&labelColor=101010)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=101010)
 
 ## Contacto:
 [![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
