@@ -16,9 +16,15 @@ Desarrollador de software y entusiasta de la tecnología desde hace años.
 </br>
 2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW)).
 
----
+## Estadisticas:
 
 ![Qv1ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=qv1ko&layout=compact&locale=es&theme=dark)
+
+## Proyectos:
+[![Desarrollo de Aplicaciones Multiplataforma](https://github-readme-stats.vercel.app/api/pin/?username=qv1ko&repo=dam&locale=es&theme=dark)](https://github.com/qv1ko/dam)
+[![Proyecto GDCE](https://github-readme-stats.vercel.app/api/pin/?username=qv1ko&repo=gdce&locale=es&theme=dark)](https://github.com/qv1ko/gdce)
+[![Desarrollo de Aplicaciones Web](https://github-readme-stats.vercel.app/api/pin/?username=qv1ko&repo=daw&locale=es&theme=dark)](https://github.com/qv1ko/daw)
 
 ## Tecnologías:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)
