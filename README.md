@@ -1,6 +1,31 @@
-# ![https://www.buymeacoffee.com/qv1ko](https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png) Hola, mi nombre es Víctor 👋🏼
+<div align="center">
+  <img height="128" src="https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png"  />
+</div>
 
-Desarrollador de software y entusiasta de la tecnología desde hace años.
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/qv1ko/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vicgarmur947@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/Qv1ko" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">¡Bienvenido 👋!</h1>
+
+###
+
+<h3 align="left">👨🏻‍💻 Sobre mí</h3>
+Mi nombre es <b>Víctor</b>, soy desarrollador de software y apasionado de la tecnología.
+
+###
 
 2017 ➡ Inicio mi interés por la informática y las tecnologías empezando a trabajar con mi primer ordenador.
 </br>
@@ -16,26 +41,22 @@ Desarrollador de software y entusiasta de la tecnología desde hace años.
 </br>
 2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW)).
 
-## Estadisticas:
+###
 
-![Qv1ko's GitHub stats](https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+<h3 align="left">🛠 Tecnologías y herramientas</h3>
+
+###
+
+![Tecnologías](https://skillicons.dev/icons?i=js,php,html,css,bootstrap,mysql,java,md)
+
+![Herramientas](https://skillicons.dev/icons?i=linux,vscode,git,wordpress,notion,figma)
+
+###
+
+<h3 align="left">📊 Mis estadísticas</h3>
+
+###
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=qv1ko&show_icons=true&locale=es&rank_icon=github&theme=dark#gh-dark-mode-only)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=qv1ko&layout=compact&locale=es&theme=dark)
-
-## Tecnologías y herramientas:
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=101010)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=F80000&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=101010)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)
-</br>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=101010)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=101010)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=101010)
-
-## Contacto:
-[![Gmail](https://img.shields.io/badge/vicgarmur947@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:vicgarmur947@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/qv1ko/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/Qv1ko)
