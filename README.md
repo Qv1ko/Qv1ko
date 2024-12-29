@@ -25,19 +25,13 @@ Mi nombre es <b>Víctor</b>, soy desarrollador de software y apasionado de la te
 
 ###
 
-2017 ➡ Inicio mi interés por la informática y las tecnologías empezando a trabajar con mi primer ordenador.
+2020 ➡ Comencé el Ciclo Formativo de Grado Medio en **Sistemas Microinformáticos y Redes (SMR)**, iniciando mi especialización en el ámbito tecnológico.
 </br>
-2020 ➡ Arranque con mis estudios en el sector de la informática, formándome en un Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes (SMR). Desde entonces me he dedicado a especializarme en el sector.
+2022 ➡ Estudié ciberseguridad de forma autodidacta, participando en **CTFs en la plataforma de [HackTheBox](https://app.hackthebox.com/profile/924054)**. Además, inicié el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Multiplataforma ([DAM](https://github.com/Qv1ko/DAM))**.
 </br>
-2022 ➡ A lo largo de la primera mitad del año, estudié ciberseguridad de forma autodidacta y complete un total de 42 CTF's en la plataforma de [HackTheBox](https://app.hackthebox.com/profile/924054).
+2024 ➡ Desarrollé mi proyecto final, **([GDCE](https://github.com/Qv1ko/GDCE))**, durante las prácticas del ciclo DAM.
 </br>
-2022 ➡ Empiezo a cursar un Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma ([DAM](https://github.com/Qv1ko/DAM)).
-</br>
-2023 ➡ Durante el verano, me dediqué a aprender JavaScript y TypeScript.
-</br>
-2024 ➡ Mientras realizaba las prácticas del Ciclo Formativo de Grado Superior, desarrollé mi proyecto ([GDCE](https://github.com/Qv1ko/GDCE)).
-</br>
-2024 ➡ Comienzo el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW)).
+2024 ➡ Empecé el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW))**.
 
 ###
 
