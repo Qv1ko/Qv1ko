@@ -29,7 +29,7 @@ Mi nombre es <b>Víctor</b>, soy desarrollador de software y apasionado de la te
 </br>
 2022 ➡ Estudié ciberseguridad de forma autodidacta, participando en **CTFs en la plataforma de [HackTheBox](https://app.hackthebox.com/profile/924054)**. Además, inicié el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Multiplataforma ([DAM](https://github.com/Qv1ko/DAM))**.
 </br>
-2024 ➡ Desarrollé mi proyecto final, **([GDCE](https://github.com/Qv1ko/GDCE))**, durante las prácticas del ciclo DAM.
+2024 ➡ Desarrollé mi proyecto final, **([GDCE](https://github.com/Qv1ko/GDCE))**, durante las prácticas del grado superior.
 </br>
 2024 ➡ Empecé el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW))**.
 
