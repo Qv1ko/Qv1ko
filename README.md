@@ -41,9 +41,9 @@ Mi nombre es <b>Víctor</b>, soy desarrollador de software y apasionado de la te
 
 ![Lenguajes](https://skillicons.dev/icons?i=js,php,html,css,mysql,java,ts,md)
 
-![Tecnologías](https://skillicons.dev/icons?i=laravel,bootstrap,tailwindcss)
+![Tecnologías](https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwindcss)
 
-![Herramientas](https://skillicons.dev/icons?i=linux,vscode,git,bun,wordpress,notion)
+![Herramientas](https://skillicons.dev/icons?i=linux,vscode,git,wordpress,notion)
 
 ###
 
