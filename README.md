@@ -32,6 +32,7 @@ Mi nombre es <b>Víctor</b>, soy desarrollador de software y apasionado de la te
 2024 ➡ Desarrollé mi proyecto final, **([GDCE](https://github.com/Qv1ko/GDCE))**, durante las prácticas del grado superior.
 </br>
 2024 ➡ Empecé el Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web ([DAW](https://github.com/Qv1ko/DAW))**.
+</br>
 2025 ➡ Desarrollé mi proyecto final, **([RacingTracker](https://github.com/Qv1ko/RacingTracker))**, durante las prácticas del grado superior.
 
 ###
