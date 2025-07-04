@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="128" src="https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png"  />
+  <img width="128" src="https://raw.githubusercontent.com/Qv1ko/Qv1ko/main/pictures/icon.png"  />
 </div>
 
 <div align="center">
