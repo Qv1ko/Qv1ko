@@ -24,11 +24,11 @@
 
 ###
 
-![Lenguajes](https://skillicons.dev/icons?i=js,php,html,css,mysql,java,ts,md)
+![Lenguajes](https://skillicons.dev/icons?i=php,ts,html,css,mysql,md)
 
-![Tecnologías](https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwindcss,nodejs,vite)
+![Tecnologías](https://skillicons.dev/icons?i=laravel,angular,react,astro,tailwindcss,vite)
 
-![Herramientas](https://skillicons.dev/icons?i=linux,vscode,git,wordpress)
+![Herramientas](https://skillicons.dev/icons?i=linux,aws,vscode,git,wordpress,bun,nodejs)
 
 ###
 
