@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">📊 Mis estadísticas</h3>
+<h3 align="left">📊 Estadísticas</h3>
 
 ###
 
