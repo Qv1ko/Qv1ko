@@ -20,13 +20,19 @@
 
 ###
 
-<h3 align="left">🛠 Tecnologías y herramientas</h3>
+<h3 align="left">💻 Mi Stack</h3>
 
 ###
 
-![Tecnologías](https://skillicons.dev/icons?i=laravel,angular,react,astro,tailwindcss,vite,mysql,md)
+![Stack](https://skillicons.dev/icons?i=laravel,angular,nodejs,mysql,aws,git)
 
-![Herramientas](https://skillicons.dev/icons?i=linux,aws,git,wordpress,bun,nodejs)
+###
+
+<h3 align="left">🛠 Otras tecnologías</h3>
+
+###
+
+![Tecnologías](https://skillicons.dev/icons?i=astro,react,tailwindcss,bun,vite,md)
 
 ###
 
