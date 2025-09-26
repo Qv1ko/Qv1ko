@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">💻 Mi Stack</h3>
+<h3 align="left">💻 Mi stack</h3>
 
 ###
 
