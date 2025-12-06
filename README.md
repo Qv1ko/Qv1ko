@@ -42,8 +42,8 @@
 
 ![Estadísticas de GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qv1ko&theme=github_dark)
 
-[![Racha de actividad personal](https://streak-stats.demolab.com?user=qv1ko&theme=github-dark-blue&locale=es&date_format=j%20M%5B%20Y%5D&fire=EB5454&border=1D2228&background=FFFFFF00)](https://git.io/streak-stats)
-[![Racha de actividad laboral](https://streak-stats.demolab.com?user=softeca-victor-garcia&theme=github-dark-blue&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&border=1D2228&background=FFFFFF00&excludeDaysLabel=FFFFFF00)](https://git.io/streak-stats)
+[![Racha de actividad personal](https://streak-stats.demolab.com?user=qv1ko&theme=github-dark-blue&locale=es&date_format=j%20M%5B%20Y%5D&fire=EB5454&border=1D2228&background=FFFFFF00&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Racha de actividad laboral](https://streak-stats.demolab.com?user=softeca-victor-garcia&theme=github-dark-blue&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&border=1D2228&background=FFFFFF00&excludeDaysLabel=FFFFFF00&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ![Lenguajes más usados por repositorio](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qv1ko&theme=github_dark)
 ![Lenguajes más usados por commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qv1ko&theme=github_dark)
