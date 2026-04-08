@@ -6,7 +6,7 @@
 
 ###
 
-![Stack](https://skillicons.dev/icons?i=laravel,angular,nodejs,mysql,aws,git)
+![Stack](https://skillicons.dev/icons?i=laravel,angular,nodejs,mysql,postman,aws,git)
 
 ###
 
