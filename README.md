@@ -8,7 +8,7 @@
   
   <h3 align="center">👨‍💻 Personal Stack 👨‍💻</h3>
   
-  ![Personal Stack](https://skillicons.dev/icons?i=astro,tailwindcss,bun,md,figma)
+  ![Personal Stack](https://skillicons.dev/icons?i=astro,tailwindcss,pnpm,md,figma)
 
   <h3 align="center">📚 Learning 📚</h3>
   
