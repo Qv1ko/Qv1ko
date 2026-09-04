@@ -2,13 +2,13 @@
 
   <h1>👋 Welcome!</h1>
   
-  <h3 align="center">💻 Professional Stack 💻</h3>
+  <h3 align="center">👨‍💻 Stack 👨‍💻</h3>
   
-  ![Professional Stack](https://skillicons.dev/icons?i=laravel,angular,mysql,postman,aws,git)
+  ![Stack](https://skillicons.dev/icons?i=laravel,angular,astro,mysql,aws,md)
   
-  <h3 align="center">👨‍💻 Personal Stack 👨‍💻</h3>
+  <h3 align="center">🔧 Utilities 🔧</h3>
   
-  ![Personal Stack](https://skillicons.dev/icons?i=astro,tailwindcss,pnpm,md,figma)
+  ![Utilities](https://skillicons.dev/icons?i=pnpm,postman,git,figma)
 
   <h3 align="center">📚 Learning 📚</h3>
   
