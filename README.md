@@ -4,15 +4,15 @@
   
   <h3 align="center">👨‍💻 Stack 👨‍💻</h3>
   
-  ![Stack](https://skillicons.dev/icons?i=laravel,angular,astro,mysql,aws,md)
+  ![Stack](https://skillicons.dev/icons?i=laravel,angular,mysql,aws)
   
   <h3 align="center">🔧 Utilities 🔧</h3>
   
-  ![Utilities](https://skillicons.dev/icons?i=pnpm,postman,git,figma)
+  ![Utilities](https://skillicons.dev/icons?i=pnpm,docker,postman,git,figma)
 
   <h3 align="center">📚 Learning 📚</h3>
   
-  ![Learning](https://skillicons.dev/icons?i=githubactions,docker)
+  ![Learning](https://skillicons.dev/icons?i=dotnet,githubactions)
   
   <h3 align="center">📊 GitHub Statistics 📊</h3>
   
