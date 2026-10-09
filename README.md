@@ -4,7 +4,7 @@
   
   <h3 align="center">👨‍💻 Stack 👨‍💻</h3>
   
-  ![Stack](https://skillicons.dev/icons?i=laravel,angular,mysql,aws)
+  ![Stack](https://skillicons.dev/icons?i=angular,laravel,mysql,aws)
   
   <h3 align="center">🔧 Utilities 🔧</h3>
   
