@@ -6,9 +6,9 @@
   
   ![Stack](https://skillicons.dev/icons?i=angular,laravel,mysql,aws)
   
-  <h3 align="center">🔧 Utilities 🔧</h3>
+  <h3 align="center">🔧 Tools 🔧</h3>
   
-  ![Utilities](https://skillicons.dev/icons?i=pnpm,docker,postman,git,figma)
+  ![Utilities](https://skillicons.dev/icons?i=docker,postman,git,figma)
 
   <h3 align="center">📚 Learning 📚</h3>
   
